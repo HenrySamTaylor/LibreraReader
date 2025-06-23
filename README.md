@@ -1,47 +1,8 @@
-![Logo](https://raw.githubusercontent.com/foobnix/LirbiReader/master/logo.jpg)
-
 # Librera Reader
 
 Librera Reader is an e-book reader for Android devices;
 it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,
 and OPDS Catalogs
-
-### Download application
-
-[Librera Reader on Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
-
-[Librera PRO on Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader)
-
-[Librera F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
-
-[Beta testing .apk](http://beta.librera.mobi/)
-
-[Application Fonts.zip](https://github.com/foobnix/LirbiReader/tree/master/Builder/fonts)
-
-
-[Web browser Librera Book Reader](https://librera.mobi/online-book-reader/)
-
-https://librera.mobi/online-book-reader/?file=https://pdfobject.com/pdf/sample.pdf
-
-[Google Chrome Extension](https://chromewebstore.google.com/detail/epub-reader-librera/kfpiokccdkdlbjmgiajpfcdefcbdbphe)
-
-[zip Chrome Extension](https://github.com/foobnix/LibreraReader/raw/master/Builder/librara-chrome-extension.zip)
-
-### Links
-
-[web: https://librera.mobi/](https://librera.mobi/)
-
-[What is new/Changes](https://librera.mobi/what-is-new/)
-
-[FAQ](https://librera.mobi/faq/)
-
-[Telegram Info](https://t.me/LibreraReader)
-
-[Telegram Chat](https://t.me/librera_reader_chat)
-
-[Support/Donations on Patreon](https://www.patreon.com/librera)
-
-[Email: librera.reader@gmail.com](mailto:librera.reader@gmail.com)
 
 ## Required build libs
 
